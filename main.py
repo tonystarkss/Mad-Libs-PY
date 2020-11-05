@@ -22,7 +22,7 @@ print("Next you have to bake it in a very hot " + noun3 + ".")
 print("When it is done, cut it into " + number1 + "" + shapes + ".")
 print("Some kids like " + food1 + " pizza the best, but my favourite is the " + food2 + " pizza.")
 print("If I could, I would eat pizza " + number2 + " times a day!")
-# Sentences with variables
+# Sentences with variables entered in the string
 
 
 
